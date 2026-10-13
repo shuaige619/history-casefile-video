@@ -1,0 +1,6 @@
+interface:
+  display_name: "历史说书·口播与手绘视频"
+  short_description: "历史口播先按项目规范评测、润色和复评，按需继续田叔配音与手绘视频；视频模型先确认"
+  default_prompt: "使用 $history-casefile-video，以【历史主题】生成完整历史口播稿，先按项目规范完成评分、语气优化与复评；如我要求视频，再继续制作并在视频模型调用前确认具体批次。"
+policy:
+  allow_implicit_invocation: true
